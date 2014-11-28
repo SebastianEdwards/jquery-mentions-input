@@ -1,6 +1,6 @@
 {
   "name": "jquery-mentions-input",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "homepage": "https://github.com/podio/jquery-mentions-input",
   "authors": [
     "Kenneth Auchenberg  <kenneth@auchenberg.dk>",
@@ -17,7 +17,7 @@
   ],
    "dependencies": {
     "underscore": "~1.2",
-    "jquery": "~1.6.x"
+    "jquery": "~1.11.1"
   },
   "license": "MIT",
   "ignore": [
